@@ -10,4 +10,5 @@ add_executable(21_10_2026 main.cpp
         Teacher.h
         Manager.cpp
         Manager.h
+        polymorphism.cpp
 )
